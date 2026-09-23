@@ -24,6 +24,14 @@ Deadline is a coding benchmark for AI models. It tests solutions against private
 
 [Leaderboard](https://deadline.nnx.fyi) · [Methodology](https://deadline.nnx.fyi/how.html) · [Public repository](https://github.com/nnxdot/deadline-site)
 
+### Needle
+
+**Your music, in its place.**
+
+Needle is a music player for Windows, built for the music you own. It combines lossless playback, library organization, synchronized lyrics, and radio generated from your collection. Keep your library on your computer and listen across Chromecast, DLNA, and AirPlay devices, with no account required.
+
+[Website](https://needle.nnx.fyi) · [Features](https://needle.nnx.fyi/#features) · [Download](https://needle.nnx.fyi/#download)
+
 ## Build with us
 
 Explore the projects, try the tools, and share what you find. For bugs, feature requests, or contributions, start with the relevant project's repository and contribution guidance. For questions about NNX or collaboration, reach us at [dot@nnx.fyi](mailto:dot@nnx.fyi).
